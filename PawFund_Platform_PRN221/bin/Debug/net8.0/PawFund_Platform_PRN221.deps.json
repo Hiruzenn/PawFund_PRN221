@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PawFund_Platform_PRN221/1.0.0": {
+        "dependencies": {
+          "Service": "1.0.0"
+        },
+        "runtime": {
+          "PawFund_Platform_PRN221.dll": {}
+        }
+      },
+      "Bussiness_Objects/1.0.0": {
+        "runtime": {
+          "Bussiness_Objects.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Repository/1.0.0": {
+        "dependencies": {
+          "Bussiness_Objects": "1.0.0"
+        },
+        "runtime": {
+          "Repository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Service/1.0.0": {
+        "dependencies": {
+          "Repository": "1.0.0"
+        },
+        "runtime": {
+          "Service.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PawFund_Platform_PRN221/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bussiness_Objects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

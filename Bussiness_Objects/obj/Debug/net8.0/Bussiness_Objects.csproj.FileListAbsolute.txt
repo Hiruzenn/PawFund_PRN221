@@ -1,0 +1,14 @@
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\bin\Debug\net8.0\Bussiness_Objects.deps.json
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\bin\Debug\net8.0\Bussiness_Objects.dll
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\bin\Debug\net8.0\Bussiness_Objects.pdb
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\obj\Debug\net8.0\Bussiness_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\obj\Debug\net8.0\Bussiness_Objects.AssemblyInfoInputs.cache
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\obj\Debug\net8.0\Bussiness_Objects.AssemblyInfo.cs
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\obj\Debug\net8.0\Bussiness_Objects.csproj.CoreCompileInputs.cache
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\obj\Debug\net8.0\Bussiness_Objects.dll
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\obj\Debug\net8.0\refint\Bussiness_Objects.dll
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\obj\Debug\net8.0\Bussiness_Objects.pdb
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\obj\Debug\net8.0\ref\Bussiness_Objects.dll
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\bin\Debug\net8.0\Bussiness_Objects.runtimeconfig.json
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\obj\Debug\net8.0\Bussiness_Objects.csproj.AssemblyReference.cache
+C:\Users\vuhuu\source\repos\PawFund_Platform_PRN221\Bussiness_Objects\obj\Debug\net8.0\Bussiness_Objects.genruntimeconfig.cache

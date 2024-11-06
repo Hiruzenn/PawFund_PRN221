@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vuhuu\\source\\repos\\PawFund_Platform_PRN221\\PawFund_Platform_PRN221\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PawFund_Platform_PRN221.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PawFund_Platform_PRN221.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\vuhuu\\source\\repos\\PawFund_Platform_PRN221\\PawFund_Platform_PRN221\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\vuhuu\\source\\repos\\PawFund_Platform_PRN221\\PawFund_Platform_PRN221\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuhuu\\source\\repos\\PawFund_Platform_PRN221\\PawFund_Platform_PRN221\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuhuu\\source\\repos\\PawFund_Platform_PRN221\\PawFund_Platform_PRN221\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PawFund_Platform_PRN221.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PawFund_Platform_PRN221.props",
+      "PackagePath": "build\\PawFund_Platform_PRN221.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PawFund_Platform_PRN221.props",
+      "PackagePath": "buildMultiTargeting\\PawFund_Platform_PRN221.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PawFund_Platform_PRN221.props",
+      "PackagePath": "buildTransitive\\PawFund_Platform_PRN221.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
